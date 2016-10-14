@@ -27,7 +27,8 @@ module.exports = {
             Nav: 'app/components/Nav.jsx',
             Timer: 'app/components/Timer.jsx',
             Countdown: 'app/components/Countdown.jsx',
-            ApplicationStyles: 'app/styles/app.scss'
+            ApplicationStyles: 'app/styles/app.scss',
+            Clock: 'app/components/Clock.jsx'
         }
     },
     module: {

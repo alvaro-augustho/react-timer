@@ -30,7 +30,7 @@ module.exports = {
             ApplicationStyles: 'app/styles/app.scss',
             Clock: 'app/components/Clock.jsx',
             CountdownForm: 'app/components/CountdownForm.jsx',
-            Controls: 'app/components/Controls.jsx'
+            Controls: 'app/components/Controls.jsx',
         }
     },
     module: {
